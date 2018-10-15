@@ -11,7 +11,6 @@
 namespace OPEN_AQ_Pollution.Properties
 {
 
-
     /// <summary>
     ///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
     /// </summary>
